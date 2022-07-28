@@ -1,2 +1,2 @@
 # Introdu-o-a-banco-de-dados
-algo
+Será estudado o assunto introdutório de banco de dados
